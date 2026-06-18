@@ -5,6 +5,9 @@
 [submodule "funHDDC"]
 	path = funHDDC
 	url = https://github.com/cran/funHDDC
+[submodule "mixedClust"]
+	path = mixedClust
+	url = https://github.com/cran/mixedClust
 [submodule "ordinalClust"]
 	path = ordinalClust
 	url = https://github.com/cran/ordinalClust
